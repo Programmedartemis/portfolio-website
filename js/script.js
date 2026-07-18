@@ -234,15 +234,15 @@ const typingElement = document.getElementById("typing-text");
 
 const typingWords = [
 
+    "Cloud Engineer",
+
     "Frontend Web Developer",
 
-    "Cloud Engineer",
+    "DevOps Engineer",
 
     "AWS Certified Cloud Practitioner",
 
-    "AWS Certified Solutions Architect",
-
-    "DevOps Engineer"
+    "AWS Certified Solutions Architect"
 
 ];
 
