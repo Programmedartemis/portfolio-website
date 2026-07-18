@@ -8,7 +8,26 @@ A modern, responsive personal portfolio website built with **HTML, CSS, and Java
 
 📸 Screenshot
 
-images/dark-view-portfolio.png
+## Homepage
+
+![Homepage Light View](screenshots/light-view-portfolio.png)
+
+## Certification
+
+![Certification](screenshots/portfolio_certs.png)
+
+## Learning Journey Mobile View
+
+![Learning Journey](screenshots/responsive_view.png)
+
+
+## Mobile View
+
+![Mobile](screenshots/responsive_view_frontview.png)
+
+
+
+
 
 ✨ Features
 
